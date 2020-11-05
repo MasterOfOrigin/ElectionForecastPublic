@@ -1,7 +1,7 @@
 id.R
 runMD.R
-cron.R
 runMD.log
+.env
 rsconnect
 	
 .Rhistory

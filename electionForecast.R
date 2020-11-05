@@ -3,8 +3,10 @@ library(tidyverse)
 library(dplyr)
 library(RSelenium)
 library(magrittr)
+library(dotenv)
+load_dot_env(file = ".env")
 
-output <- file("/Users/mikemahon/Documents/projects/election-forecast/output", "a")
+output <- file(Sys.getenv("OUTPUT"), "a")
 
 ## Not run:
 # start a chrome browser
