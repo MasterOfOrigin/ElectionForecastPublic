@@ -1,0 +1,44 @@
+# --- penn --- 
+# before 5:15
+# trumpvotes 3638726
+# bidenvotes 3387723
+
+# after 5:15
+#trumpvotes 3616258
+# bidenvotes 3415025
+
+5:56
+trumpvotes 3603935
+bidenvotes 3428493
+
+
+
+# ----- GA ---- 
+# 5:17
+# trumpvotes 2574735
+# bidenvotes 2566998
+
+# ------- NV
+# 5:21
+# bidenvotes 689899.4
+# trumpvotes 677695.4
+
+
+           georgia pennsylvania   nevada arizona north-carolina
+trumpvotes 2583860      3583319 677695.4 1587813        2871194
+bidenvotes 2593584      3453496 689899.4 1707503        2800865
+
+#------ AZ----
+#5:22
+#bidenvotes 1688470
+#trumpvotes 1561396
+
+# 5:49
+#trumpvotes 1587528
+#bidenvotes 1706312
+
+
+MI 
+6:00 pm
+trumpvotes 2706992
+bidenvotes 2791636
