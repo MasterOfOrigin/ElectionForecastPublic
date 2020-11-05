@@ -60,6 +60,7 @@ projectState <- function(state) {
     }) %>%
     unlist()
   
+  
   scalefac <- html %>%
     html_nodes(".jsx-3921339373") %>%
     html_nodes(".jsx-421939043") %>%
@@ -129,9 +130,3 @@ projectedVotes
 remainingVotesSplit
 colSums(projectedVotes) - colSums(currentVotes)
 diff(as.matrix(projectedVotes))
-
-currentVotes %>% knitr::kable()
-projectedVotes %>% knitr::kable()
-diff(as.matrix(projectedVotes)) %>% knitr::kable()
-remainingVotesSplit %>% knitr::kable()
-(colSums(projectedVotes) - colSums(currentVotes)) %>% knitr::kable()

@@ -1274,3 +1274,348 @@ projection vs needed to win ratios of remaining votes:
 
 
 
+
+
+
+
+Date:  2020-11-05
+Time:  2020-11-05 13:30:24
+
+current number of votes:
+"georgia" "pennsylvania" "nevada" "arizona" "north-carolina"
+"trump" 2436327 3232066 592813 1401807 2732120
+"biden" 2423107 3120697 604251 1470382 2655383
+
+
+projected number of votes:
+"georgia" "pennsylvania" "nevada" "arizona" "north-carolina"
+"trump" 2554783.44879999 3520458.15395863 664300.418750878 1619734.25050868 2870442.46894978
+"biden" 2551291.24299558 3446111.49122863 678168.359468426 1698237.72054346 2799558.1745966
+
+
+projection vs needed to win ratios of remaining votes:
+"georgia needed" "georgia projected" "pennsylvania needed" "pennsylvania projected" "nevada needed" "nevada projected" "arizona needed" "arizona projected" "north-carolina needed" "north-carolina projected"
+"trump" 0.473199880555482 0.48027942160563 0.409280063295809 0.469842019828001 0.539331582290745 0.491644219855406 0.576915230564043 0.488864009305529 0.364181167961846 0.489641142536008
+"biden" 0.526800119444518 0.519720578394371 0.590719936704191 0.530157980172 0.460668417709255 0.508355780144594 0.423084769435957 0.51113599069447 0.635818832038154 0.510358857463994
+
+
+
+
+
+
+
+
+Date:  2020-11-05
+Time:  2020-11-05 14:12:38
+
+current number of votes:
+"georgia" "pennsylvania" "nevada" "arizona" "north-carolina"
+"trump" 2436443 3236110 592813 1402431 2732120
+"biden" 2423608 3127518 604251 1470560 2655383
+
+
+projected number of votes:
+"georgia" "pennsylvania" "nevada" "arizona" "north-carolina"
+"trump" 2535550.35211312 3517391.6206636 664292.004609464 1618971.88197055 2864682.65076796
+"biden" 2538694.94977247 3449054.87306476 678167.430175496 1697662.97055866 2793370.65944509
+
+
+projection vs needed to win ratios of remaining votes:
+"georgia needed" "georgia projected" "pennsylvania needed" "pennsylvania projected" "nevada needed" "nevada projected" "arizona needed" "arizona projected" "north-carolina needed" "north-carolina projected"
+"trump" 0.470038885518869 0.462698359576617 0.409929770627663 0.466610801742173 0.539334109825789 0.491617943267484 0.576783437448301 0.488096207658579 0.358183492860214 0.489974122238387
+"biden" 0.529961114481131 0.537301640423385 0.590070229372337 0.533389198257828 0.460665890174211 0.508382056732516 0.423216562551699 0.511903792341421 0.641816507139786 0.510025877761611
+
+
+
+
+
+
+
+
+Date:  2020-11-05
+Time:  2020-11-05 14:14:44
+
+current number of votes:
+"georgia" "pennsylvania" "nevada" "arizona" "north-carolina"
+"trump" 2436443 3236110 592813 1402431 2732120
+"biden" 2423608 3127518 604251 1470560 2655383
+
+
+projected number of votes:
+"georgia" "pennsylvania" "nevada" "arizona" "north-carolina"
+"trump" 2531521.83171884 3517391.6206636 664292.004609464 1618971.88197055 2864682.65076796
+"biden" 2536987.2645826 3449054.87306476 678167.430175496 1697662.97055866 2793370.65944509
+
+
+projection vs needed to win ratios of remaining votes:
+"georgia needed" "georgia projected" "pennsylvania needed" "pennsylvania projected" "nevada needed" "nevada projected" "arizona needed" "arizona projected" "north-carolina needed" "north-carolina projected"
+"trump" 0.469214436311843 0.456105248036745 0.409929770627663 0.466610801742173 0.539334109825789 0.491617943267484 0.576783437448301 0.488096207658579 0.358183492860214 0.489974122238387
+"biden" 0.530785563688157 0.543894751963255 0.590070229372337 0.533389198257828 0.460665890174211 0.508382056732516 0.423216562551699 0.511903792341421 0.641816507139786 0.510025877761611
+
+
+
+
+
+
+
+
+Date:  2020-11-05
+Time:  2020-11-05 14:17:57
+
+current number of votes:
+"georgia"
+"trump" 2436443
+"biden" 2423608
+
+
+projected number of votes:
+"georgia"
+"trump" 2521777.71908279
+"biden" 2531484.82155624
+
+
+projection vs needed to win ratios of remaining votes:
+"georgia needed" "georgia projected"
+"trump" 0.466785110357411 0.441664710092135
+"biden" 0.533214889642589 0.558335289907868
+
+
+
+
+
+
+
+
+Date:  2020-11-05
+Time:  2020-11-05 14:22:06
+
+current number of votes:
+"georgia"
+"trump" 2436443
+"biden" 2423608
+
+
+projected number of votes:
+"georgia"
+"trump" 2508073.09564009
+"biden" 2519155.76775541
+
+
+projection vs needed to win ratios of remaining votes:
+"georgia needed" "georgia projected"
+"trump" 0.461612740648457 0.428466390138215
+"biden" 0.538387259351543 0.571533609861787
+
+
+
+
+
+
+
+
+Date:  2020-11-05
+Time:  2020-11-05 14:23:14
+
+current number of votes:
+"georgia"
+"trump" 2436443
+
+
+projected number of votes:
+"georgia"
+"trump" 2504473.93814051
+
+
+projection vs needed to win ratios of remaining votes:
+"georgia needed" "georgia projected"
+"trump" -17.4068749204066 1
+
+
+
+
+
+
+
+
+Date:  2020-11-05
+Time:  2020-11-05 14:24:57
+
+current number of votes:
+"georgia"
+"trump" 2436443
+
+
+projected number of votes:
+"georgia"
+"trump" 2496796.85118734
+
+
+projection vs needed to win ratios of remaining votes:
+"georgia needed" "georgia projected"
+"trump" -19.68465228041 1
+
+
+
+
+
+
+
+
+Date:  2020-11-05
+Time:  2020-11-05 14:26:30
+
+current number of votes:
+"georgia" "pennsylvania" "nevada" "arizona" "north-carolina"
+"trump" 2436443 3236132 592813 1402431 2732120
+"biden" 2423608 3127530 604251 1470560 2655383
+
+
+projected number of votes:
+"georgia" "pennsylvania" "nevada" "arizona" "north-carolina"
+"trump" 2500832.25438238 3519223.02098258 664300.418750878 1619824.26580893 2870442.46894978
+"biden" 2513861.74097391 3450707.73696694 678168.359468426 1698139.37459907 2799558.1745966
+
+
+projection vs needed to win ratios of remaining votes:
+"georgia needed" "georgia projected" "pennsylvania needed" "pennsylvania projected" "nevada needed" "nevada projected" "arizona needed" "arizona projected" "north-carolina needed" "north-carolina projected"
+"trump" 0.458501191824342 0.416373559203463 0.410434111459655 0.466939813854222 0.539331582290745 0.491644219855406 0.576554144921733 0.488554230232232 0.364181167961846 0.489641142536008
+"biden" 0.541498808175658 0.583626440796537 0.589565888540345 0.533060186145778 0.460668417709255 0.508355780144594 0.423445855078267 0.511445769767768 0.635818832038154 0.510358857463994
+
+
+
+
+
+
+
+
+Date:  2020-11-05
+Time:  2020-11-05 14:28:15
+
+current number of votes:
+"georgia"
+"trump" 2436443
+"biden" 2423608
+
+
+projected number of votes:
+"georgia"
+"trump" 2483447.73923087
+"biden" 2502968.99349916
+
+
+projection vs needed to win ratios of remaining votes:
+"georgia needed" "georgia projected"
+"trump" 0.44921487129972 0.371973779721525
+"biden" 0.55078512870028 0.628026220278475
+
+
+
+
+
+
+
+
+Date:  2020-11-05
+Time:  2020-11-05 14:29:21
+
+current number of votes:
+"georgia"
+"trump" 2438181
+"biden" 2425417
+
+
+projected number of votes:
+"georgia"
+"trump" 2480662.64423474
+"biden" 2503299.2339772
+
+
+projection vs needed to win ratios of remaining votes:
+"georgia needed" "georgia projected"
+"trump" 0.44697744792867 0.352943464981581
+"biden" 0.55302255207133 0.647056535018419
+
+
+
+
+
+
+
+
+Date:  2020-11-05
+Time:  2020-11-05 14:30:26
+
+current number of votes:
+"georgia" "pennsylvania" "nevada" "arizona" "north-carolina"
+"trump" 2438181 3236132 592813 1402431 2732120
+"biden" 2425417 3127530 604251 1470560 2655383
+
+
+projected number of votes:
+"georgia" "pennsylvania" "nevada" "arizona" "north-carolina"
+"trump" 2498047.15938626 3519223.02098258 664300.418750878 1619824.26580893 2870442.46894978
+"biden" 2514191.99155296 3450707.73696694 678168.359468426 1698139.37459907 2799558.1745966
+
+
+projection vs needed to win ratios of remaining votes:
+"georgia needed" "georgia projected" "pennsylvania needed" "pennsylvania projected" "nevada needed" "nevada projected" "arizona needed" "arizona projected" "north-carolina needed" "north-carolina projected"
+"trump" 0.457064379818952 0.402756296005411 0.410434111459655 0.466939813854222 0.539331582290745 0.491644219855406 0.576554144921733 0.488554230232232 0.364181167961846 0.489641142536008
+"biden" 0.542935620181048 0.597243703994585 0.589565888540345 0.533060186145778 0.460668417709255 0.508355780144594 0.423445855078267 0.511445769767768 0.635818832038154 0.510358857463994
+
+
+
+
+
+
+
+
+Date:  2020-11-05
+Time:  2020-11-05 14:39:38
+
+current number of votes:
+"georgia" "pennsylvania" "nevada" "arizona" "north-carolina"
+"trump" 2438181 3236132 592813 1402431 2732120
+"biden" 2425417 3127530 604251 1470560 2655383
+
+
+projected number of votes:
+"georgia" "pennsylvania" "nevada" "arizona" "north-carolina"
+"trump" 2482388.89469099 3517414.77855834 664292.004609464 1618971.88197055 2864682.65076796
+"biden" 2504041.47952913 3449067.50464371 678167.430175496 1697662.97055866 2793370.65944509
+
+
+projection vs needed to win ratios of remaining votes:
+"georgia needed" "georgia projected" "pennsylvania needed" "pennsylvania projected" "nevada needed" "nevada projected" "arizona needed" "arizona projected" "north-carolina needed" "north-carolina projected"
+"trump" 0.44804301357423 0.359904259538032 0.409921743655397 0.466611337402627 0.539334109825789 0.491617943267484 0.576783437448301 0.488096207658579 0.358183492860214 0.489974122238387
+"biden" 0.55195698642577 0.640095740461968 0.590078256344603 0.533388662597373 0.460665890174211 0.508382056732516 0.423216562551699 0.511903792341421 0.641816507139786 0.510025877761611
+
+
+
+
+
+
+
+
+Date:  2020-11-05
+Time:  2020-11-05 14:47:59
+
+current number of votes:
+"georgia" "pennsylvania" "nevada" "arizona" "north-carolina"
+"trump" 2438181 3238057 592813 1402431 2732120
+"biden" 2425417 3131077 604251 1470560 2655383
+
+
+projected number of votes:
+"georgia" "pennsylvania" "nevada" "arizona" "north-carolina"
+"trump" 2499772.94519604 3518876.46317819 664300.418750878 1619824.26580893 2870442.46894978
+"biden" 2514909.74215539 3452882.58104716 678168.359468426 1698139.37459907 2799558.1745966
+
+
+projection vs needed to win ratios of remaining votes:
+"georgia needed" "georgia projected" "pennsylvania needed" "pennsylvania projected" "nevada needed" "nevada projected" "arizona needed" "arizona projected" "north-carolina needed" "north-carolina projected"
+"trump" 0.457758790041012 0.40766504055288 0.411238338810231 0.465993681924008 0.539331582290745 0.491644219855406 0.576554144921733 0.488554230232232 0.364181167961846 0.489641142536008
+"biden" 0.542241209958988 0.592334959447117 0.588761661189769 0.534006318075992 0.460668417709255 0.508355780144594 0.423445855078267 0.511445769767768 0.635818832038154 0.510358857463994
+
+
+
+

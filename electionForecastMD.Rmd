@@ -15,8 +15,6 @@ library(dplyr)
 library(RSelenium)
 library(magrittr)
 
-output <- file("/Users/mikemahon/Documents/projects/election-forecast/output", "a")
-
 ## Not run:
 # start a chrome browser
 rD <- rsDriver(chromever = "86.0.4240.22")
@@ -115,16 +113,6 @@ colnames(ratios) <- unlist(map(seq(1:(length(states)*2)),
 remDr$close()
 # stop the selenium server
 rD[["server"]]$stop()
-
-
-write(c("\n", "\n", paste("Date: ", Sys.Date()), paste("Time: ", Sys.time()), "", "current number of votes:"), output, append=TRUE)
-write.table(currentVotes, output, append=TRUE)
-write(c("\n", "projected number of votes:"), output, append=TRUE)
-write.table(projectedVotes, output, append=TRUE)
-write(c("\n", "projection vs needed to win ratios of remaining votes:"), output, append=TRUE)
-write.table(ratios, output, append=TRUE)
-write(c("\n", "\n"), output, append=TRUE)
-close(output)
 
 
 
