@@ -1,7 +1,6 @@
 ---
 title: "Election Projection w/ County Bias"
 author: "Michael Mahon"
-date: "11/5/2020"
 output: html_document
 ---
 
