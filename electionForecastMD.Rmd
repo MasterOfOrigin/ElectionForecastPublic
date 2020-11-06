@@ -20,7 +20,6 @@ library(magrittr)
 rD <- rsDriver(chromever = "86.0.4240.22")
 remDr <- rD[["client"]]
 remDr$open()
-remDr$setTimeout(type = "page load", 5000)
 
 states = c("georgia", "pennsylvania", "nevada", "arizona", "north-carolina")
 projectState <- function(state) {
@@ -75,7 +74,7 @@ projectState <- function(state) {
     html_text %>%
     lapply(function(x) {
       pct = as.numeric(gsub(",", "", sub("%", "", x)))
-      ifelse(pct == 0, 0, 100/pct)
+      ifelse(pct == 0, 0, ifelse(pct == 99, 100/99.5, 100/pct))
     }) %>%
     unlist()
   
