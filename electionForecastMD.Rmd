@@ -159,7 +159,7 @@ diff(as.matrix(projectedVotes)) %>% knitr::kable()
 remainingVotesSplit %>% knitr::kable()
 ```
 
-## Votes Remaining
+## Expected Votes Remaining
 
 ```{r, echo=FALSE}
 (colSums(projectedVotes) - colSums(currentVotes))  %>% knitr::kable(col.names = c("."))
