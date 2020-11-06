@@ -74,7 +74,9 @@ projectState <- function(state) {
     html_text %>%
     lapply(function(x) {
       pct = as.numeric(gsub(",", "", sub("%", "", x)))
-      ifelse(pct == 0, 0, ifelse(pct == 99, 100/99.5, 100/pct))
+      ifelse(pct == 0, 0, 
+              ifelse(pct %in% c(95,99), 100/mean(c(100, pct)), 100/pct)
+             )
     }) %>%
     unlist()
   
